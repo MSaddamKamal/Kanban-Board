@@ -17,28 +17,6 @@ Route::get('/','HomeController@index');
 Auth::routes();
 
 
-	// Route::middleware('auth')->get('/tasks','TaskController@index')->name('tasks.index');
-
-	// Route::middleware('auth')->post('tasks', 'TaskController@store')->name('tasks.store');
-
-	// 	Route::middleware('auth')->put('tasks/sync', 'TaskController@sync')->name('tasks.sync');
-
-
-	// Route::middleware('auth')->put('tasks/{id}', 'TaskController@update')->name('tasks.update');
-
-
-
-
- 
-
- //        Route::middleware('auth')->put('statuses/{id}', 'StatusController@update')->name('statuses.update');
-
-
-
- //                Route::middleware('auth')->delete('statuses/{id}', 'StatusController@destroy')->name('statuses.destroy');
-
-
- //                    Route::middleware('auth')->post('statuses', 'StatusController@store')->name('statuses.store');
 
                    
 

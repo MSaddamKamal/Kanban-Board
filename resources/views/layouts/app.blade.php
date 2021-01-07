@@ -7,10 +7,10 @@
     <!-- CSRF Token -->
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
-    <title>Bemo</title>
+    <title>Kanban Board</title>
 
-   
-    
+
+
     <!-- Styles -->
     <link href="{{ mix('css/app.css') }}" rel="stylesheet">
 </head>
@@ -20,9 +20,9 @@
             <div class="container mx-auto px-6 md:px-0">
                 <div class="flex items-center justify-center">
                     <div class="mr-6">
-                    <img class="w-20 " src="https://bemoacademicconsulting.com/storage/files/ACeRsIcNfD6yiLP6fa0qqlva3qvpKPLfsom3hVDu.png">
+                    <img class="w-1/6" src="https://z-p3-scontent.fkhi4-2.fna.fbcdn.net/v/t1.0-1/p200x200/13516322_1001509366594137_2176996078883890856_n.png?_nc_cat=101&ccb=2&_nc_sid=dbb9e7&_nc_ohc=8Nc-qmtOUREAX_I0PcA&_nc_ht=z-p3-scontent.fkhi4-2.fna&_nc_tp=30&oh=be2c938f9fbdaa9d3b58b672275f28bf&oe=601E0025">
                         <a href="{{ url('/') }}" class="text-lg font-semibold text-gray-100 no-underline">
-                            Bemo Academic Consulting (Kanban Board)
+                            Mohammad Ali Jinnah University (Kanban Board)
                         </a>
                     </div>
                     <div class="flex-1 text-right">

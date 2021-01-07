@@ -1,13 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="36c77f8d-5a1e-4a2b-bae7-920ab2986d0b" name="Default Changelist" comment="" />
+    <list default="true" id="36c77f8d-5a1e-4a2b-bae7-920ab2986d0b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/auth/login.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/auth/login.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/home.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/home.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
   </component>
@@ -148,6 +153,7 @@
       <option name="presentableId" value="Default" />
       <updated>1606484454819</updated>
       <workItem from="1606484457002" duration="649000" />
+      <workItem from="1610009650497" duration="1290000" />
     </task>
     <servers />
   </component>
@@ -164,5 +170,16 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="325" y="30" width="776" height="668" key="find.popup" timestamp="1610010058239">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="325" y="30" width="776" height="668" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1610010058239" />
+    <state x="262" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1610009670881">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="262" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1610009670881" />
   </component>
 </project>

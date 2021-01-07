@@ -41,14 +41,14 @@
                             @enderror
                         </div>
 
-     
+
 
                         <div class="flex flex-wrap  items-center">
                             <button type="submit" class="bg-pink-900 hover:bg-pink-800 text-gray-100 font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline">
                                 {{ __('Login') }}
                             </button>
 
-         
+
 
                             @if (Route::has('register'))
                                 <p class="w-full text-xs text-center text-gray-700 mt-8 -mb-4">
